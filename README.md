@@ -4,9 +4,9 @@ Grupo # 5
 
 Integrantes:
 
-Esteban Duràn Jimènez 
+1.Esteban Durán Jiménez 
 
-Luis Enrique Taborda Murilo 
+2.Luis Enrique Taborda Murilo 
 
 En el siguiente programa se utiliza el web scraping para conseguir de internet la informacion referente a los festivos del año 2020 y el año 2021 de la siguitente pagina web https://www.municipio.com.co/dias-festivos-2020-2021.html.
 
