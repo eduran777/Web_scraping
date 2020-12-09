@@ -14,3 +14,7 @@ En el siguiente programa se utiliza el web scraping para conseguir de internet l
 
 Esta informacion sera añadida al calendario de la applicacion Primiapp para de esta manera mejorar la experiencia del usuario al brindarle informacion que le permita agendar tareas teniendo en cuenta cuales dias son festivos.
 
+A continuacion se ve un ejemplo de como se obtiene la informacion organizada:
+
+![alt tag](https://github.com/eduran777/Web_scraping/blob/main/Web_scraping/702e03b5-c99e-49b4-80b8-018491874f37.jpeg?raw=true)
+
